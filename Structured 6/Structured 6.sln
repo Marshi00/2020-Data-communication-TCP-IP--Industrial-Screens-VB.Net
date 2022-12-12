@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Rdy", "Rdy.vbproj", "{EAB1EC69-9B04-4223-A40A-3E195FB5DED4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAB1EC69-9B04-4223-A40A-3E195FB5DED4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAB1EC69-9B04-4223-A40A-3E195FB5DED4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAB1EC69-9B04-4223-A40A-3E195FB5DED4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAB1EC69-9B04-4223-A40A-3E195FB5DED4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {761300B4-393D-4C71-93BA-53258A4D6E77}
+	EndGlobalSection
+EndGlobal
